@@ -3,5 +3,6 @@ logo: /assets/img/logo.png
 description: —
 show_downloads: true
 theme: jekyll-theme-minimal
-url: "czernucka.github.io"
-baseurl: "/portfolio"
+github:
+  zip_url: http://czernucka.github.io/download.zip
+  another_url: portfolio
