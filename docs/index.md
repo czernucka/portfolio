@@ -9,6 +9,9 @@ header: Миленочка Чернуцкая
 
 <iframe src="https://drive.google.com/file/d/1Tx-YVPPqkRWSL2HRMCzqrNRmWnzioh_N/preview" width="640" height="480"></iframe>
 
+<image src="/assets/img/antonina.jpeg" width="500">
+
+
 [Link to another page](./another-page.html).
 
 
