@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Миленочка Чернуцкая
 header: Миленочка Чернуцкая
 ---
