@@ -7,7 +7,7 @@ header: Миленочка Чернуцкая
 # Обо мне
 Это страничка Миленочки Чернуцкой. Я работаю техписей в Ozon Tech уже почти 2 года.
 
-![Image]({{ site.base_url }}/assets/img/antonina.jpeg)
+<iframe src="https://drive.google.com/file/d/1Tx-YVPPqkRWSL2HRMCzqrNRmWnzioh_N/preview" width="640" height="480"></iframe>
 
 [Link to another page](./another-page.html).
 
